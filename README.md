@@ -1,6 +1,6 @@
 # Trackify
 
-![Trackify Logo](https://github.com/haydenbanz/haydenbanz.github.io/blob/main/images/%20gitimage/hades23vfsd.png?raw=true)
+![Trackify Logo](https://github.com/haydenbanz/Trackify/blob/main/Trackify.png)
 [![Python - Trackify](https://img.shields.io/static/v1?label=Python&message=Trackify&color=%242A3E87&labelColor=%236A7DA8&style=for-the-badge&&logo=python)](https://github.com/haydenbanz/Trackify)
 [![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&color=%233DA639&labelColor=%23e3e3e3&style=for-the-badge)](https://github.com/haydenbanz/Trackify/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/static/v1?label=Python&message=3.6%2B&color=%230078D6&labelColor=%23e3e3e3&style=for-the-badge&logo=python)](https://www.python.org/downloads/)
