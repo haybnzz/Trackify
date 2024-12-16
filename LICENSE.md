@@ -1,6 +1,6 @@
 # LICENSE
 
-This software is licensed for personal and non-commercial use only. 
+This software is licensed for personal and non-commercial use only.
 
 ## Permissions:
 - **Personal Use**: You are free to use this software for personal projects.
