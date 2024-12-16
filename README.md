@@ -152,11 +152,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 📧 Email: cubedimension@protonmail.com
 
-### Contributors and Developers
+### Contributors,Credits and Developers
 
 [<img src="https://avatars.githubusercontent.com/u/67865621?s=64&v=4" width="64" height="64" alt="haydenbanz">](https://github.com/haydenbanz)  
+
+[<img src="https://avatars.githubusercontent.com/u/141047292?v=4&size=40" width="64" height="64" alt="JeffrinE">](https://github.com/JeffrinE)
  
 [<img src="https://avatars.githubusercontent.com/u/144106684?s=64&v=4" width="64" height="64" alt="Glitchesminds">](https://github.com/Glitchesminds)
+
+
+- Credits @JeffrinE
 
 ## ☕ Support
 
